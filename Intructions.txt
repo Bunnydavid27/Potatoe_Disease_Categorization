@@ -1,0 +1,11 @@
+Creating This Application From Scratch Then You need to Run in FrontEnd for creating the react app for developing the app
+npx create-react-app ./
+
+For acessing the fastapi Interface
+Run Main.py 
+
+Access the API from http://localhost:8000/docs 
+
+predict your Potatoe Disease and Have Fun, 
+
+Happy Learning 😁🎁
